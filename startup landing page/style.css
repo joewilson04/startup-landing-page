@@ -9,9 +9,19 @@ html {
   height: 100%;
   font-family: 'Montserrat', sans-serif;
 }
+
+.buffer2 {
+  height: 650px;
+}
+
 h1 {
-  font-size: 2rem;
+  font-size: 4rem;
   color: #e2dbdb;
+  text-shadow: 4px 4px 5px #000000;
+}
+
+.buffer {
+  height: 25px;
 }
 
 hr {
@@ -27,7 +37,7 @@ hr {
   text-transform: uppercase;
 }
 
-.btn-danger:hover {
+.btn-primary:hover {
   border-width: 4px;
 }
 
