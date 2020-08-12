@@ -10,7 +10,8 @@ html {
   font-family: 'Montserrat', sans-serif;
 }
 h1 {
-  color: white;
+  font-size: 3rem;
+  color: #e2dbdb;
 }
 button {
   background-color: red;
